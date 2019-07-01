@@ -4,6 +4,6 @@ for i in iso:
     if i not in yup:
         yup.append(i)
 if iso==yup:
-   print("yes")
+   print("Yes")
 else:
-   print("no")
+   print("No")
